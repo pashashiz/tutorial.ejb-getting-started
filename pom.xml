@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>simple-singleton</module>
+        <module>simple-web</module>
     </modules>
 
     <properties>
