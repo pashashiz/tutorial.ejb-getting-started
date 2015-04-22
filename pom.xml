@@ -10,6 +10,8 @@
     <modules>
         <module>simple-singleton</module>
         <module>simple-web</module>
+        <module>simple-stateful</module>
+        <module>cdi</module>
     </modules>
 
     <properties>
